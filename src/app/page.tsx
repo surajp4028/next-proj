@@ -15,7 +15,7 @@ import ServBox from "../components/serv-box"
 
 import HoverBorderGradient from "@/components/ui/anim-btn";
 import SparklesPreview from "@/components/spark-title";
-import Faq from "../components/faq";
+import Faq from "../components/Faq";
 import TextGenerateEffectDemo from "@/components/textgen";
 import Calend from "@/components/calend";
 import GlobeDemo from "@/components/gitglobe";
