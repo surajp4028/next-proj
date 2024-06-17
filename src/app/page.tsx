@@ -92,7 +92,7 @@ export default function Home() {
             {/* text infor */}
             <TextGenerateEffectDemo />
             <div className=" flex mx-auto md:h-[300px] h-[160px] overflow-hidden flex-col  items-center justify-center ">
-              <div className="md:mt-[40px] w-full mt-[-190px]">
+              <div className="md:mt-[40px] w-full mt-[-390px]">
                 <GlobeDemo />
               </div>
                 
