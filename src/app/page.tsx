@@ -84,15 +84,15 @@ export default function Home() {
 
       <div>
         <div className="max-w-6xl mx-auto p-5 py-[50px] flex flex-col md:flex-row items-center gap-4">
-          <div className=" w-[40%] flex items-center justify-center">
+          <div className=" md:w-[40%] w-full flex items-center justify-center">
             {/* calender */}
            <Calend />
           </div>
-          <div className="w-[60%]">
+          <div className="md:w-[60%] w-full">
             {/* text infor */}
             <TextGenerateEffectDemo />
-            <div className=" flex mx-auto h-[300px] overflow-hidden flex-col  items-center justify-center ">
-              <div className="mt-[40px] w-full">
+            <div className=" flex mx-auto md:h-[300px] h-[160px] overflow-hidden flex-col  items-center justify-center ">
+              <div className="md:mt-[40px] w-full mt-[-190px]">
                 <GlobeDemo />
               </div>
                 
