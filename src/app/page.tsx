@@ -83,7 +83,7 @@ export default function Home() {
       {/* book calender */}
 
       <div>
-        <div className="max-w-6xl mx-auto p-5 py-[50px] flex items-center gap-4">
+        <div className="max-w-6xl mx-auto p-5 py-[50px] flex flex-col md:flex-row items-center gap-4">
           <div className=" w-[40%] flex items-center justify-center">
             {/* calender */}
            <Calend />
